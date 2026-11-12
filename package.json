@@ -1,0 +1,24 @@
+{
+  "name": "sprint-04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beatrizfaria9/sprint-04.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Beatrizfaria9/sprint-04/issues"
+  },
+  "homepage": "https://github.com/Beatrizfaria9/sprint-04#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
